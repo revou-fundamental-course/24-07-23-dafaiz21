@@ -225,11 +225,15 @@ position: relative;
 .footer{
     text-align: center;
     border-top: 3px solid;
+    background-color: black;
+    color: white;
+    
 }
 .footer h3{
     margin-top: 0;
     font-size: 50px;
     font-family: comic sans ms;
+    line-height:100px;
 }
 .footer p{
     font-size: 30px;
